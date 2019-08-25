@@ -4,7 +4,7 @@ Visit [SpeakerDeck link]() to see my slides.
 
 Slides and Content for the proposed talk in [Python in Astronomy 2019](http://openastronomy.org/pyastro/2019/).
 
-The slides uploaded in the repository are just for reference. Actual slides must be looked up [here.](https://docs.google.com/presentation/d/1VnLGqlB9ZKDtieek8HPnhXj0USvjdfsOVyji9LnUqWU/edit?usp=sharing)
+The slides uploaded in the repository are just for reference. Actual slides must be looked up [here.](https://docs.google.com/presentation/d/1p1JLJzvsio8TsTMag4GCR5P-GHZNAeoUqZMVZaF60-k/edit?usp=sharing)
 
 ## Python in Astronomy 2019
 ### Space Telescope Science Institute
@@ -17,4 +17,4 @@ Notebook-2: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.or
 
 ### Click on Google Slides logo to launch my slides of the talk!
 [![Google Slides](download.png)](
-https://docs.google.com/presentation/d/1VnLGqlB9ZKDtieek8HPnhXj0USvjdfsOVyji9LnUqWU/edit?usp=sharing)
+https://docs.google.com/presentation/d/1p1JLJzvsio8TsTMag4GCR5P-GHZNAeoUqZMVZaF60-k/edit?usp=sharing)
