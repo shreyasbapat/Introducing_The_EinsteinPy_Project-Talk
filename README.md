@@ -2,12 +2,12 @@
 
 Visit [SpeakerDeck link]() to see my slides.
 
-Slides and Content for the proposed talk in [Python in Astronomy 2019](http://openastronomy.org/pyastro/2019/).
+Slides and Content for the proposed talk in [PyCon India 2019](http://openastronomy.org/pyastro/2019/).
 
 The slides uploaded in the repository are just for reference. Actual slides must be looked up [here.](https://docs.google.com/presentation/d/1p1JLJzvsio8TsTMag4GCR5P-GHZNAeoUqZMVZaF60-k/edit?usp=sharing)
 
-## Python in Astronomy 2019
-### Space Telescope Science Institute
+## PyCon India 2019
+### Chennai
 ### Baltimore, USA, 28 July - 02 August 2019
 
 ### Click on Launch Binder to launch the notebooks!
